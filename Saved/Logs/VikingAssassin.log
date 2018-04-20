@@ -3384,3 +3384,5 @@ LogInit: Object subsystem initialized
 [2018.04.20-00.10.56:419][295]SourceControl: Commited [JustinBranch 3736407] Created a test actor.
 [2018.04.20-00.16.05:715][887]LogTemp: Repeating last play command: Standalone Game
 [2018.04.20-00.16.07:377][ 79]LogTemp: Repeating last play command: Standalone Game
+[2018.04.20-00.25.53:973][333]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.04.20-00.25.54:126][333]EditorErrors: Warning: No assets to check in!
