@@ -733,3 +733,12 @@ LogInit: Object subsystem initialized
 [2018.04.20-00.40.00:003][692]LogEditorViewport: Clicking Background
 [2018.04.20-00.55.47:549][365]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2018.04.20-00.55.48:337][377]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-01.03.24:612][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-01.04.26:960][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-01.05.23:982][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-01.05.40:278][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-01.06.24:270][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-01.06.41:053][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-01.09.49:865][603]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-01.09.50:539][605]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-01.09.56:615][623]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
