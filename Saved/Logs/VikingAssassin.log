@@ -707,3 +707,27 @@ LogInit: Object subsystem initialized
 [2018.04.20-00.21.21:645][464]LogFileHelpers: Saving map 'LVL_Jo' took 0.202
 [2018.04.20-00.22.06:739][212]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
 [2018.04.20-00.22.09:401][517]LogEditorViewport: Clicking Background
+[2018.04.20-00.24.38:979][295]LogEditorViewport: Clicking Background
+[2018.04.20-00.24.43:242][787]LogEditorViewport: Clicking Background
+[2018.04.20-00.24.43:598][820]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2018.04.20-00.25.01:515][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.25.01:578][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.25.01:780][769]LogSavePackage: Save=166.56ms
+[2018.04.20-00.25.01:780][769]LogSavePackage: Moving '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Saved/LVL_Jo27D6B2D944564F41E5183295BE49FCA2.tmp' to '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap'
+[2018.04.20-00.25.01:789][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap
+[2018.04.20-00.25.02:022][769]LogSavePackage: Save=96.21ms
+[2018.04.20-00.25.02:022][769]LogSavePackage: Moving '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Saved/LVL_Jo_BuiltDataD007B67045DB9D02654B58A0B5BD9ED6.tmp' to '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo_BuiltData.uasset'
+[2018.04.20-00.25.02:023][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo_BuiltData.uasset
+[2018.04.20-00.25.20:651][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.25.22:080][ 69]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.04.20-00.25.22:213][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.25.27:272][ 69]LogSlate: Window 'Submit Files' being destroyed
+[2018.04.20-00.30.23:818][579]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-00.30.24:486][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-00.30.50:830][660]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-00.30.51:498][662]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-00.30.51:833][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.34.10:150][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.39.37:257][439]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-00.39.37:941][441]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.20-00.40.00:003][692]LogEditorViewport: Clicking Background
