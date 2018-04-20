@@ -625,3 +625,85 @@ LogInit: Object subsystem initialized
 [2018.04.20-00.13.55:979][951]SourceControl:  rewrite Content/ourContent/Level/LVL_Jo.umap (98%)
 [2018.04.20-00.13.55:979][951]SourceControl:  create mode 100644 Content/ourContent/Level/LVL_Jo_BuiltData.uasset
 [2018.04.20-00.13.55:987][951]SourceControl: Commited [Jo 3921e95] edits to LVL_Jo.
+[2018.04.20-00.17.07:312][695]Cmd: DELETE
+[2018.04.20-00.17.07:312][695]Cmd: ACTOR DELETE
+[2018.04.20-00.17.07:315][695]LogEditorActor: Deleted Actor: PlayerStart
+[2018.04.20-00.17.07:327][695]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.04.20-00.17.21:803][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.17.26:900][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.17.27:000][ 19]LogTemp: Repeating last play command: Standalone Game
+[2018.04.20-00.17.29:562][ 19]LogSlate: Window 'Save Content' being destroyed
+[2018.04.20-00.17.29:587][ 19]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2018.04.20-00.17.29:587][ 19]PIE: Warning: PIE failed because map save was canceled
+[2018.04.20-00.17.30:885][169]LogSlate: Window 'Message Log' being destroyed
+[2018.04.20-00.17.30:889][169]LogSlate: Window 'Message Log' being destroyed
+[2018.04.20-00.17.32:745][387]LogTemp: Repeating last play command: Standalone Game
+[2018.04.20-00.17.34:706][387]LogSlate: Window 'Save Content' being destroyed
+[2018.04.20-00.17.34:998][387]LogSavePackage: Save=140.61ms
+[2018.04.20-00.17.34:998][387]LogSavePackage: Moving '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Saved/LVL_Jo39FFBCCF454700B12B7F3CAAFC5A06D0.tmp' to '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap'
+[2018.04.20-00.17.35:006][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap
+[2018.04.20-00.17.35:023][387]LogFileHelpers: Saving map 'LVL_Jo' took 0.247
+[2018.04.20-00.17.48:589][933]LogTemp: Repeating last play command: Standalone Game
+[2018.04.20-00.18.17:590][247]LogEditorViewport: Clicking Background
+[2018.04.20-00.18.18:282][328]LogEditorViewport: Clicking on Actor (context menu): DirectionalLight (DirectionalLight2)
+[2018.04.20-00.18.18:318][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.18.23:904][958]LogEditorViewport: Clicking Background
+[2018.04.20-00.18.24:894][ 75]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2018.04.20-00.18.26:351][244]Cmd: DELETE
+[2018.04.20-00.18.26:351][244]Cmd: ACTOR DELETE
+[2018.04.20-00.18.26:354][244]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.04.20-00.18.26:365][244]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.04.20-00.18.29:735][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.18.34:930][251]Cmd: DELETE
+[2018.04.20-00.18.34:930][251]Cmd: ACTOR DELETE
+[2018.04.20-00.18.34:933][251]LogEditorActor: Deleted Actor: DirectionalLight
+[2018.04.20-00.18.34:945][251]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.04.20-00.18.37:344][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.18.43:062][205]Cmd: DELETE
+[2018.04.20-00.18.43:062][205]Cmd: ACTOR DELETE
+[2018.04.20-00.18.43:065][205]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2018.04.20-00.18.43:076][205]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2018.04.20-00.18.43:985][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.18.52:720][310]Cmd: DELETE
+[2018.04.20-00.18.52:720][310]Cmd: ACTOR DELETE
+[2018.04.20-00.18.52:722][310]LogEditorActor: Deleted Actor: PointLight
+[2018.04.20-00.18.52:734][310]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2018.04.20-00.18.53:409][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.19.02:531][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.19.25:887][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.19.25:972][887]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/LightingAndShadows/LightTypes/SkyLight/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2018.04.20-00.19.44:140][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.19.54:258][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.20.20:028][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.20.20:095][981]LogTemp: Repeating last play command: Standalone Game
+[2018.04.20-00.20.21:583][981]LogSlate: Window 'Save Content' being destroyed
+[2018.04.20-00.20.21:594][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.20.21:659][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.20.21:840][981]LogSavePackage: Save=101.01ms
+[2018.04.20-00.20.21:840][981]LogSavePackage: Moving '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Saved/LVL_Jo30AEF4274128643342D0C2A2535A01C4.tmp' to '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap'
+[2018.04.20-00.20.21:847][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap
+[2018.04.20-00.20.21:865][981]LogFileHelpers: Saving map 'LVL_Jo' took 0.201
+[2018.04.20-00.20.48:134][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.20.51:606][244]LogEditorViewport: Clicking Background
+[2018.04.20-00.20.52:578][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.20.55:781][725]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.20.57:172][886]LogEditorViewport: Clicking Background
+[2018.04.20-00.20.58:703][ 68]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.04.20-00.21.07:132][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.08:921][222]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.10:356][389]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.13:111][684]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.13:934][778]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.14:974][881]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.19:221][349]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.04.20-00.21.20:158][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.20-00.21.20:241][464]LogTemp: Repeating last play command: Standalone Game
+[2018.04.20-00.21.21:369][464]LogSlate: Window 'Save Content' being destroyed
+[2018.04.20-00.21.21:381][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.21.21:438][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.20-00.21.21:621][464]LogSavePackage: Save=103.86ms
+[2018.04.20-00.21.21:621][464]LogSavePackage: Moving '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Saved/LVL_JoE700C6BF4F2D287767624294AB653446.tmp' to '../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap'
+[2018.04.20-00.21.21:628][464]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gwain/OneDrive/Documents/GitHub/VikingAssassin/Content/ourContent/Level/LVL_Jo.umap
+[2018.04.20-00.21.21:645][464]LogFileHelpers: Saving map 'LVL_Jo' took 0.202
+[2018.04.20-00.22.06:739][212]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.20-00.22.09:401][517]LogEditorViewport: Clicking Background
